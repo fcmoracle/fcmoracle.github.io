@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 환경설정
+title: "환경설정"
 ---
 
 # 환경설정
