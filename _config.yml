@@ -326,5 +326,5 @@ defaults:
       show_date: true
       date_format: "%Y-%m-%d"
       comments: # true
-      share: true
+      share: # true
       related: true
